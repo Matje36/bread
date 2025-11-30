@@ -1,0 +1,12 @@
+{
+    "807628339028295750": {
+        "total_time": 431.29850912094116,
+        "joins": 7,
+        "avg_duration": 143.76616970698038,
+        "total_sessions": 3,
+        "joined_with": {},
+        "mute_count": 11,
+        "deaf_count": 5,
+        "talk_time": 0
+    }
+}

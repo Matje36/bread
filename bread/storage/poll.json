@@ -1,0 +1,51 @@
+{
+    "ian": {
+        "question": "is ian mooi",
+        "options": [
+            "ja",
+            "nee",
+            "misschien"
+        ],
+        "anonymous": true,
+        "message_id": 1436406127397961760,
+        "channel_id": 1252962556201664643,
+        "creator_id": 807628339028295750,
+        "creator_name": "BanAnenEters",
+        "votes": {
+            "807628339028295750": 1
+        },
+        "closed": false
+    },
+    "kkr": {
+        "question": "is ian cool",
+        "options": [
+            "ja",
+            "nee"
+        ],
+        "anonymous": true,
+        "message_id": 1444672400644898849,
+        "channel_id": 1424366956777312286,
+        "creator_id": 807628339028295750,
+        "creator_name": "BanAnenEters",
+        "votes": {
+            "807628339028295750": 0
+        },
+        "closed": true
+    },
+    "d": {
+        "question": "i",
+        "options": [
+            "2",
+            "3"
+        ],
+        "anonymous": true,
+        "message_id": 1444688073588736010,
+        "channel_id": 1424366956777312286,
+        "creator_id": 807628339028295750,
+        "creator_name": "BanAnenEters",
+        "votes": {
+            "807628339028295750": 0
+        },
+        "closed": false
+    }
+}
