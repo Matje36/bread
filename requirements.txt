@@ -1,0 +1,8 @@
+discord.py==2.3.2
+python-dotenv
+openai
+Pillow
+qrcode
+asyncpg
+yt-dlp
+PyNaCl
