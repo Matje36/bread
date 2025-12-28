@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 
-R6_STATUS_URL = "https://game-status-api.ubisoft.com/v1/launcher/status"  # voorbeeld URL, kan aangepast worden
+R6_STATUS_URL = "https://www.ubisoft.com/en-us/game/rainbow-six/siege/status"  # voorbeeld URL, kan aangepast worden
 
 async def fetch_r6_status():
     async with aiohttp.ClientSession() as session:
@@ -21,3 +21,4 @@ async def fetch_r6_status():
                 return servers
         except Exception as e:
             return {"error": str(e)}
+
